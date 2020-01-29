@@ -1,0 +1,6 @@
+[user]
+	name = rosh
+	email = roshanspike@gmail.com
+	mail = mail@mail
+[core]
+	editor = vim
